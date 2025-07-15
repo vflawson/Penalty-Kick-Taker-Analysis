@@ -33,7 +33,7 @@ When only focusing on matches where the pressure of a penalty kick might be grea
 
 We can visualize this difference between general penalty performance and cup/international specific performance by age bracket:
 
-<img width="971" height="446" alt="image" src="https://github.com/user-attachments/assets/06c8747b-73eb-4b7f-add1-733cf7a4f1df" />
+<img width="1214" height="560" alt="image" src="https://github.com/user-attachments/assets/8a1afc81-02e1-4490-b46c-e0fc2a99b030" />
 
 Here, we can see that the rate of scoring a penalty increases more noticeably as you increase age brackets. The dip in success rate for 15-20 year olds in cup/international competitions can be  seen as well. 
 
